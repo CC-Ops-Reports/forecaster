@@ -1,0 +1,6 @@
+# The plaintext master — stays on this computer, NEVER uploaded.
+# Only the encrypted index.html gets published.
+forecaster.html
+*.bak
+.DS_Store
+build.js
